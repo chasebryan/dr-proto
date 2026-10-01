@@ -1,0 +1,8 @@
+# Python 3.10-3.13. CUDA users may install their preferred torch build first.
+torch>=2.6,<3
+transformers==4.57.1
+accelerate>=0.34,<2
+numpy>=1.26,<3
+pandas>=2.2,<3
+scikit-learn>=1.4,<2
+joblib>=1.3,<2

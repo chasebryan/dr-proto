@@ -1,0 +1,8 @@
+{"id":"paris_true","prompt":"What is the capital of France? Explain in two sentences.","answer":"France is a country in western Europe. Its capital is Paris, which is also its largest city.","first_false_char":null}
+{"id":"paris_false","prompt":"What is the capital of France? Explain in two sentences.","answer":"France is a country in western Europe. Its capital is Berlin, which is also its largest city.","false_span":"Berlin"}
+{"id":"water_true","prompt":"What elements make up water? Give a short explanation.","answer":"Water is a familiar chemical compound. Each water molecule contains two hydrogen atoms and one oxygen atom.","first_false_char":null}
+{"id":"water_false","prompt":"What elements make up water? Give a short explanation.","answer":"Water is a familiar chemical compound. Each water molecule contains two carbon atoms and one oxygen atom.","false_span":"carbon"}
+{"id":"moon_true","prompt":"Who first walked on the Moon? Explain briefly.","answer":"Apollo 11 landed on the Moon in July 1969. The first person to walk on its surface was Neil Armstrong.","false_span":null}
+{"id":"moon_false","prompt":"Who first walked on the Moon? Explain briefly.","answer":"Apollo 11 landed on the Moon in July 1969. The first person to walk on its surface was Yuri Gagarin.","first_false_char":87}
+{"id":"math_true","prompt":"What is two plus two? Explain briefly.","answer":"Addition combines quantities into a total. When two objects are added to two more, the total is four.","first_false_char":null}
+{"id":"math_false","prompt":"What is two plus two? Explain briefly.","answer":"Addition combines quantities into a total. When two objects are added to two more, the total is five.","false_span":"five"}
